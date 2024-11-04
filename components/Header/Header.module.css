@@ -1,13 +1,14 @@
 .containar{
     background-image: url(/images/cover_bg_3.jpg);
-    background-position: center;
+    background-position: top;
     background-repeat: no-repeat;
     background-size: cover;
     height: 100vh;
 
 }
 .main{
-    background: #4c00ffe0;
+    background-color: #ff9000ef;
+    background-color: #4c00ffe0;
     height: 100%;
     padding: 30px 50px;
     border-bottom: 1px solid rgb(255, 255, 255);
@@ -23,21 +24,21 @@
     align-items: center;
     justify-content: center;
     /* filter: drop-shadow(-0px -0px 10px rgb(0, 0, 0)); */
-    box-shadow: -0px -0px 5px rgb(0, 0, 0);
+    box-shadow: -0px -0px 1px rgb(0, 0, 0);
 }
 .profile_div{
     /* border: 1px solid white; */
     border-radius: 50%;
     margin-bottom: 35px;
-    height: 170px;
-    width: 170px;  
+    height: 180px;
+    width: 180px;  
 }
 .profile{
     /* padding: 5px; */
     border-radius: 50%;
-    height: 170px;
-    width: 170px;
-    padding: 0px 5px;
+    height: 180px;
+    width: 180px;
+    padding: 0px 3px;
     filter: drop-shadow(-0px -0px 10px rgba(255, 255, 255, 0.856));
 }
 .tital_div{

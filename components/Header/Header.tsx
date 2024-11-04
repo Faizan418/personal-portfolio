@@ -20,14 +20,14 @@ function Header() {
                     <span className={styles.tital}>- Muhammad Faizan -</span>
                  </div>
                  <div className={styles.subject_div}>
-                    <h3><span className={styles.subject}>Front-end Web Devloper UI-UX</span></h3>
+                    <h3><span className={styles.subject}>Front-End Web Devloper</span></h3>
                  </div>
                  <div className={styles.icons_div}>
 
-                    <Link href={'#'}><div className={styles.icon}><Image src={'/images/twitter-x.svg'} alt='twitter' width={20} height={20}/></div></Link>
-                    <Link href={'#'}><div className={styles.icon}><Image src={'/images/linkedin.svg'} alt='linkedin' width={20} height={20}/></div></Link>
-                    <Link href={'#'}><div className={styles.icon}><Image src={'/images/whatsapp.svg'} alt='whatsapp' width={20} height={20}/></div></Link>
-                    <Link href={'#'}><div className={styles.icon}><Image src={'/images/instagram.svg'} alt='instagram' width={20} height={20}/></div></Link>
+                    <Link href={'#'}><div className={styles.icon}><Image src={'/images/twitter-x.svg'} alt='twitter' width={25} height={25}/></div></Link>
+                    <Link href={'#'}><div className={styles.icon}><Image src={'/images/linkedin.svg'} alt='linkedin' width={25} height={25}/></div></Link>
+                    <Link href={'#'}><div className={styles.icon}><Image src={'/images/whatsapp.svg'} alt='whatsapp' width={25} height={25}/></div></Link>
+                    <Link href={'#'}><div className={styles.icon}><Image src={'/images/instagram.svg'} alt='instagram' width={25} height={25}/></div></Link>
 
                  </div>
 

@@ -33,7 +33,7 @@ function About() {
                     <div className={styles.information}>
 
                         <h1 className={styles.information_h1}><b>Hello There!</b></h1>
-                         <p>I&rsquo;m Student of &rsquo;Governor Sindh IT Initiative&rsquo; Cloud Computing Genrating AI Engineer. Web 3.0 and Metaverse Learning programing || TypeScript || JavaScript || Nexr.js || react || Database || Python || Html and Css... <br /><br /> And I&rsquo;m Student of &rsquo;SMIT&rsquo; Enroll in Web and Mobile app Devlopment and Python Web Mestry... <br /><br />  And I have Certificate of Cyber Security Ethical Hacking...<br /> I&rsquo;m English Typing Master Speed 50 W-P-M ...</p>
+                         <p className={styles.information_pera}>I&#39;m Student of Governor Sindh IT Initiative Cloud Computing Genrating AI Engineer. Web 3.0 and Metaverse Learning programing || TypeScript || JavaScript || Next.js || react || Database || Python || Html and Css... <br /><br /> And I&#39;m Student of &apos;SMIT&apos; Enroll in Web and Mobile app Devlopment and Python Web Mestry... <br /><br />  And I have Certificate of Cyber Security Ethical Hacking...<br /> I&apos;m English Typing Master Speed 50 W-P-M ...</p>
 
                          <div className={styles.icons_div}>
 
