@@ -9,11 +9,20 @@ function Footer() {
 
             <div className={styles.one}>
                 <h1 className={styles.heading_one}>Want to work with me?</h1>
-                <h2 className={styles.heading_two}>Always feel Free to Contact & Hire me</h2>
+                <h2 className={styles.heading_two}>Always feel Free to Contact & Hire me.</h2>
             </div>
             <div className={styles.two}>
                 <button className={styles.btn} type="button">Hire me</button>
             </div>
+
+        </div>
+        <div className={styles.main2}>
+
+          <div className={styles.last}>
+
+            <h3> &copy;2024 Designed by Muhamad Faizan.</h3>
+
+          </div>
 
         </div>
       

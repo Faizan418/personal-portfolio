@@ -53,14 +53,14 @@
     font-size: 14px;
     font-weight: bold;
     transition: width 0.6s ease;
-    background: linear-gradient(90deg, rgba(0, 0, 0, 0.1), rgba(255, 255, 255, 0.1));
+    background: linear-gradient(50deg, rgba(0, 0, 0, 0.521), rgba(17, 17, 17, 0.1));
     display: flex;
     align-items: center;
     justify-content: flex-end;
   }
 
-  .bar_html { width: 90%; background-color: #ff5733; }
-  .bar_css { width: 80%; background-color: #2980b9; }
-  .bar_typescript { width: 60%; background-color: #007acc; }
-  .bar_javascript { width: 60%; background-color: #f0db4f; color: #333; }
-  .bar_python { width: 30%; background-color: #306998; }
+  .bar_html { width: 90%; background-color: #ff5733; color: #2c2c2c;}
+  .bar_css { width: 80%; background-color: #2980b9; color: #2c2c2c;}
+  .bar_typescript { width: 60%; background-color: #007acc; color: #2c2c2c;}
+  .bar_javascript { width: 60%; background-color: #f0db4f; color: #2c2c2c; }
+  .bar_python { width: 30%; background-color: #306998; color: #2c2c2c;}
