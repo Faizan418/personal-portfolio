@@ -7,8 +7,8 @@
 
 }
 .main{
-    background-color: #ff9000ef;
     background-color: #4c00ffe0;
+    background-color: #ff9000ef;
     height: 100%;
     padding: 30px 50px;
     border-bottom: 1px solid rgb(255, 255, 255);
@@ -32,6 +32,7 @@
     margin-bottom: 35px;
     height: 180px;
     width: 180px;  
+    padding: 4px;
 }
 .profile{
     /* padding: 5px; */

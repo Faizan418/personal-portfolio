@@ -103,6 +103,7 @@
 }
 .icon:hover{
     background-color: #4c00ffe0;
+    background-color: #ff9000ef;
     transition: 0.5s;
 }
 @media(max-width: 1091px){
