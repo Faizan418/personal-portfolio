@@ -7,11 +7,11 @@ function Work() {
   return (
     <div className={styles.containar}>
 
-        <div className={styles.main}>
-
-                {/* <div className={styles.tital_div}>
+                <div className={styles.tital_div}>
                   <h1 className={styles.tital}>Work</h1>
-                </div> */}
+                </div>
+
+        <div className={styles.main}>
 
             <div className={styles.grid_containar}>
 
