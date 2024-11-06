@@ -58,7 +58,7 @@
     align-content: center;
     height: 230;
     width: 235;
-    color: rgb(220, 223, 240);
+    color: rgb(16, 50, 245);
     font-weight: bolder;
     background-color: rgba(0, 0, 0, 0.582);
     backdrop-filter: blur(5px);
@@ -69,7 +69,7 @@
     background-color: rgba(0, 0, 0, 0.452);
     transition: 0.9s;
     position: relative;
-    .image_bg{display: block;}
+    .image_bg{display: block;};
 }
 @media(max-width: 1115px){
     .grid_containar{
