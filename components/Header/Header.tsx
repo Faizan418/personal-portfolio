@@ -24,10 +24,10 @@ function Header() {
                  </div>
                  <div className={styles.icons_div}>
 
-                    <Link href={'#'}><div className={styles.icon}><Image src={'/images/twitter-x.svg'} alt='twitter' width={25} height={25}/></div></Link>
-                    <Link href={'#'}><div className={styles.icon}><Image src={'/images/linkedin.svg'} alt='linkedin' width={25} height={25}/></div></Link>
-                    <Link href={'#'}><div className={styles.icon}><Image src={'/images/whatsapp.svg'} alt='whatsapp' width={25} height={25}/></div></Link>
-                    <Link href={'#'}><div className={styles.icon}><Image src={'/images/instagram.svg'} alt='instagram' width={25} height={25}/></div></Link>
+                    <Link href={'https://x.com/muhammadf4060'}><div className={styles.icon}><Image src={'/images/twitter-x.svg'} alt='twitter' width={25} height={25}/></div></Link>
+                    <Link href={'https://www.linkedin.com/in/muhammad-faizan-2541132b8'}><div className={styles.icon}><Image src={'/images/linkedin.svg'} alt='linkedin' width={25} height={25}/></div></Link>
+                    <Link href={'https://wa.me/+923406044359'}><div className={styles.icon}><Image src={'/images/whatsapp.svg'} alt='whatsapp' width={25} height={25}/></div></Link>
+                    <Link href={'https://www.instagram.com/fazii.963/'}><div className={styles.icon}><Image src={'/images/instagram.svg'} alt='instagram' width={25} height={25}/></div></Link>
 
                  </div>
 
