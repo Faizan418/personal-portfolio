@@ -69,6 +69,8 @@
     background-color: rgba(5, 2, 2, 0.452);
     transition: 0.9s;
     position: relative;
+    height: 230;
+    width: 235;
     .image_bg{display: block;};
 }
 @media(max-width: 1115px){
