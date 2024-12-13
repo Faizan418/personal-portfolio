@@ -8,7 +8,9 @@
 }
 .main{
     background-color: #4c00ffe0;
-    background-color: #ff9000ef;
+    background-color: #ff9100e0;
+    /* background-color: rgba(255, 255, 0, 0.712); */
+    /* background-color: rgba(255, 214, 32, 0.87); */
     height: 100%;
     padding: 30px 50px;
     border-bottom: 1px solid rgb(255, 255, 255);
@@ -24,7 +26,7 @@
     align-items: center;
     justify-content: center;
     /* filter: drop-shadow(-0px -0px 10px rgb(0, 0, 0)); */
-    box-shadow: -0px -0px 1px rgb(0, 0, 0);
+    /* box-shadow: -0px -0px 1px rgb(0, 0, 0); */
 }
 .profile_div{
     /* border: 1px solid white; */
@@ -153,3 +155,7 @@
         font-size: 10px;
     }
 }
+
+
+
+
