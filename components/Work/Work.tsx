@@ -5,6 +5,7 @@ import Link from "next/link";
 
 function Work() {
   return (
+    <div className={styles.bg_div}>
     <div className={styles.containar}>
       
       <div className={styles.tital_div}>
@@ -108,6 +109,7 @@ function Work() {
         </div>
       </div>
 
+    </div>
     </div>
   );
 }

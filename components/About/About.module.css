@@ -102,8 +102,8 @@
     border-radius: 5px;
 }
 .icon:hover{
-    background-color: #4c00ffe0;
-    background-color: #ff9000ef;
+    /* background-color: #ff9000ef; */
+    background-color: #ff0000c2;
     transition: 0.5s;
 }
 @media(max-width: 1091px){

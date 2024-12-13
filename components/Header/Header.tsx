@@ -30,7 +30,7 @@ function Header() {
           <div className={styles.icons_div}>
             <Link href={"https://x.com/muhammadf4060"} target="_blank">
               <div className={styles.icon}>
-                <Image
+                <Image className={styles.icn}
                   src={"/images/twitter-x.svg"}
                   alt="twitter"
                   width={25}
@@ -43,7 +43,7 @@ function Header() {
               target="_blank"
             >
               <div className={styles.icon}>
-                <Image
+                <Image className={styles.icn}
                   src={"/images/linkedin.svg"}
                   alt="linkedin"
                   width={25}
@@ -53,7 +53,7 @@ function Header() {
             </Link>
             <Link href={"https://wa.me/+923406044359"} target="_blank">
               <div className={styles.icon}>
-                <Image
+                <Image className={styles.icn}
                   src={"/images/whatsapp.svg"}
                   alt="whatsapp"
                   width={25}
@@ -63,7 +63,7 @@ function Header() {
             </Link>
             <Link href={"https://www.instagram.com/fazii.963/"} target="_blank">
               <div className={styles.icon}>
-                <Image
+                <Image className={styles.icn}
                   src={"/images/instagram.svg"}
                   alt="instagram"
                   width={25}

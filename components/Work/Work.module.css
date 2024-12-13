@@ -1,8 +1,16 @@
+.bg_div{
+    background-image: url(/images/cover_bg_3.jpg);
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
 .containar{
     height: 100%;
     /* border: 1px solid black; */
-    background-color: rgba(255, 255, 0, 0.712);
     background-color: #ff9000ef;
+    background-color: rgba(0, 0, 0, 0.801);
 }
 .tital_div{
     /* border: 1px solid black; */
@@ -16,7 +24,7 @@
     color: whitesmoke;
 }
 .main{
-    border: 1px solid black;
+    /* border: 1px solid black; */
     height: 100%;
     display: flex;
     align-items: center;
@@ -26,7 +34,7 @@
 }   
 
 .grid_containar{
-    border: 1px solid rgb(245, 15, 15);
+    /* border: 1px solid rgb(245, 15, 15); */
     padding: 50px 50px;
     gap: 40px;
     flex-wrap: wrap;
@@ -61,7 +69,7 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    background: rgba(255, 255, 255, 0.418);
+    background: rgba(255, 255, 255, 0.473);
     backdrop-filter: blur(2px);
     opacity: 0;
     transition: opacity 0.3s ease;
