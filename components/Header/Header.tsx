@@ -7,8 +7,6 @@ function Header() {
   return (
     <div className={styles.containar}>
       <div className={styles.main}>
-
-
         <div className={styles.display}>
           <div className={styles.profile_div}>
             <Image
@@ -30,7 +28,8 @@ function Header() {
           <div className={styles.icons_div}>
             <Link href={"https://x.com/muhammadf4060"} target="_blank">
               <div className={styles.icon}>
-                <Image className={styles.icn}
+                <Image
+                  className={styles.icn}
                   src={"/images/twitter-x.svg"}
                   alt="twitter"
                   width={25}
@@ -43,7 +42,8 @@ function Header() {
               target="_blank"
             >
               <div className={styles.icon}>
-                <Image className={styles.icn}
+                <Image
+                  className={styles.icn}
                   src={"/images/linkedin.svg"}
                   alt="linkedin"
                   width={25}
@@ -53,7 +53,8 @@ function Header() {
             </Link>
             <Link href={"https://wa.me/+923406044359"} target="_blank">
               <div className={styles.icon}>
-                <Image className={styles.icn}
+                <Image
+                  className={styles.icn}
                   src={"/images/whatsapp.svg"}
                   alt="whatsapp"
                   width={25}
@@ -63,7 +64,8 @@ function Header() {
             </Link>
             <Link href={"https://www.instagram.com/fazii.963/"} target="_blank">
               <div className={styles.icon}>
-                <Image className={styles.icn}
+                <Image
+                  className={styles.icn}
                   src={"/images/instagram.svg"}
                   alt="instagram"
                   width={25}
