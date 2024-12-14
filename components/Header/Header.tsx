@@ -74,6 +74,9 @@ function Header() {
               </div>
             </Link>
           </div>
+          <div className={styles.btn_div}>
+            <button className={styles.btn} type="button">Download CV</button>
+          </div>
         </div>
       </div>
     </div>
